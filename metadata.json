@@ -1,0 +1,6 @@
+{
+  "name": "AI Survey Instrument",
+  "description": "Comprehensive survey analytics across structured, semi-structured, and unstructured interviews with multilingual Philippine dialects, Likert scale scoring, offline auto-sync, and AI survey copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
